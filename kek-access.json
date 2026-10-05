@@ -1,13 +1,8 @@
 {
   "schema": 1,
-  "members": {
-    "6c164cba5f6a5299": {
-      "label": "Test",
-      "salt": "W2K8cqtWqXsxO6a9YJ1eEQ==",
-      "nonce": "H0omaYHtMqwLNfTW",
-      "ct": "rKYxS/IIP+Lb+vZvILsBs+vpBG2JXHMvZW+v9ljwrExm5QpF53OsJe6ZWZJ2+adRrtmdqsJ6zTHFCkI+OFiQRiG0w58cg2Tqd/npVMtjw7v1fSGF1QYkbRuvW5G651huTWm4yWlGLLicghEgSA=="
-    }
-  },
-  "revoked": [],
-  "sig": "Bsr4ZZMCzROWTAblO4L2aCZ3xvXTnTsZccnVpdYZBWb0zSUiRDfsRSxSrvFZZyNxBfhgzYt5BN+xkisLbZnG+QU0wo21nJ70aDVuw3z6j1dp4Fcm/zbs+MVpb9oiXmqErdVonxoIbtluAQxRz1ciLGrGlNU37s+OycHwm5Fkz5R1JH3Wh7U74yc5aSeS40p5TPWAyzH5cvuCpAI6i/W5V7tpd+1Ljtr69FOOytyBOMfA8S5DRrMfEVbEDylYxOJIkzIiiyylkfl1ZilneaYOIAb8nGVTz9o0mXIc9ZWv9IQjlAVeyjiWdNdNQM6HMhfUiqiZrEffL9bH8GJYNeNF0A=="
+  "members": {},
+  "revoked": [
+    "6c164cba5f6a5299"
+  ],
+  "sig": "F04XatxIxivbcNwW1noRYbPtHY/YeEu+ptglJP5j1V/qOO7koIT6JOOwUkVdxszccQxLGc/NuystCfoFDbxdlkvnc/WzsIquYGCBeR1tXdNyC37LFH/O5ietbqFSjJ+eHW/0VsjPZ6TmXlOu1c+5Qrsz4VhVB+SLtXKPuAXFjn7Z4K0Srr8f00NRWS7TbHXgu83WlNG1eogPwnHthoRZRNlZWOdGxh0qRq4OF1ujW09jX8ekObr3/tI7NsvHUgIefdQDYopAn+u0EfTFAi6DlVnIKNxAvcRrHWDbZxhrgXzbjtOWiWKSP+t2WegsrewEo/lHc6A0uNUhYzRHwYUSAA=="
 }
